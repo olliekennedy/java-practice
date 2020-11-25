@@ -18,7 +18,7 @@ public class FizzBuzz {
             } else if (divisibleBy(i, 5)) {
                 arr[i-1] = "Buzz";
             } else {
-                arr[i-1] = i;2
+                arr[i-1] = i;
             }
         }
     }
